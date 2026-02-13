@@ -119,7 +119,7 @@ gait_person_identification/
 ### Step 1: Clone the Repository
 
 ```
-git clone <repository_link>
+git clone https://github.com/AshishPancheshwar1234/gait-person-identification.git
 cd gait_person_identification
 ```
 
